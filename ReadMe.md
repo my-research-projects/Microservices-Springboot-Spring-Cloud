@@ -1,3 +1,7 @@
+#	Architecture of this project
+
+![alt text](https://github.com/my-research-projects/Microservices-Springboot-Spring-Cloud/commit/bf89fde8aab54e780b8861a36e79259add11a45d)
+
 #   Usage (All are mvn and are springboot applications)
     -   Download the zip or clone the Git repository.
     -   Unzip the zip file (if you downloaded one)
@@ -7,6 +11,21 @@
     -   Choose the Spring Boot Application file (RestfulWebServicesApplication.java)
     -   Right Click on the file and Run as Java Application
 
+# Ports
+|     Service       |     Port          |
+| ------------- | ------------- |
+| Limits Service | 8080, 8081, ... |
+| Spring Cloud Config Server | 8888 |
+|  |  |
+| Currency Exchange Service | 8000, 8001, 8002, ...  |
+| Currency Conversion Service | 8100, 8101, 8102, ... |
+| Netflix Eureka Naming Server | 8761 |
+| Netflix Zuul API Gateway Server | 8765 |
+| Zipkin Distributed Tracing Server | 9411 |
+
+#  Setting VM Argument (to define custom ports)
+    -   -Dserver.port=8001
+    
 #   Spring Microervices:
     # Characteristics
     -   They are small components
@@ -116,7 +135,8 @@
     
 #   Fault Tolerance with Hystrix
 
-
+#   Credits:
+    -   This is based on work original by Ranga Karanam: https://github.com/in28minutes/spring-microservices
 
     
 
