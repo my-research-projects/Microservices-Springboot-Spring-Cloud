@@ -1,5 +1,5 @@
 # Note: I have used macOS for this prohect:
--	Please be adivsed that some steps my vary if you use other OSs such as Windows, Linunx, Ubuntu, etc.
+-	Kindly be adivsed that some steps may vary if you use other OSs such as Windows, Linux, Ubuntu, etc.
 
 #	Architecture of this project
 
