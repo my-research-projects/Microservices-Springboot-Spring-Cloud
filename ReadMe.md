@@ -1,3 +1,6 @@
+# Note: I have used macOS for this prohect:
+-	Please be adivsed that some steps my vary if you use other OSs such as Windows, Linunx, Ubuntu, etc.
+
 #	Architecture of this project
 
 ![alt text](https://github.com/my-research-projects/Microservices-Springboot-Spring-Cloud/blob/master/architecture/architecture.png)
