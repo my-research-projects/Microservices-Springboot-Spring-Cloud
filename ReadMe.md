@@ -1,4 +1,4 @@
-#   Usage (All 7 projects are maven based and they all are springboot applications)
+#   Usage (All are mvn and are springboot applications)
     -   Download the zip or clone the Git repository.
     -   Unzip the zip file (if you downloaded one)
     -   Open Command Prompt and Change directory (cd) to folder containing pom.xml
