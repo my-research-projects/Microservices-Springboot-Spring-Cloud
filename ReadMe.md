@@ -1,6 +1,6 @@
 #	Architecture of this project
 
-![alt text](https://github.com/my-research-projects/Microservices-Springboot-Spring-Cloud/commit/bf89fde8aab54e780b8861a36e79259add11a45d)
+![alt text](https://github.com/my-research-projects/Microservices-Springboot-Spring-Cloud/blob/master/architecture/architecture.png)
 
 #   Usage (All are mvn and are springboot applications)
     -   Download the zip or clone the Git repository.
