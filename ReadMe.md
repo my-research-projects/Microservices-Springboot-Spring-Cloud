@@ -5,7 +5,7 @@
 
 ![alt text](https://github.com/my-research-projects/Microservices-Springboot-Spring-Cloud/blob/master/architecture/architecture.png)
 
-#   Usage (All are mvn and are springboot applications)
+#   Usage (All are Maven based and Springboot Applications)
     -   Download the zip or clone the Git repository.
     -   Unzip the zip file (if you downloaded one)
     -   Open Command Prompt and Change directory (cd) to folder containing pom.xml
