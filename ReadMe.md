@@ -1,3 +1,12 @@
+#   Usage (All 7 projects are maven based and they all are springboot applications)
+    -   Download the zip or clone the Git repository.
+    -   Unzip the zip file (if you downloaded one)
+    -   Open Command Prompt and Change directory (cd) to folder containing pom.xml
+    -   Open Eclipse: File -> Import -> Existing Maven Project -> Navigate to the folder where you unzipped the zip
+    -   Select the right project
+    -   Choose the Spring Boot Application file (RestfulWebServicesApplication.java)
+    -   Right Click on the file and Run as Java Application
+
 #   Spring Microervices:
     # Characteristics
     -   They are small components
