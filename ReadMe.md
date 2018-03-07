@@ -1,5 +1,5 @@
-# Note: I have used macOS for this prohect:
--	Kindly be adivsed that some steps may vary if you use other OSs such as Windows, Linux, Ubuntu, etc.
+# Note: I have used macOS for this project:
+-	Some steps may vary if you use other OSs such as Windows, Linux, Ubuntu, etc.
 
 #	Architecture of this project
 
@@ -29,7 +29,7 @@
 #  Setting VM Argument (to define custom ports)
     -   -Dserver.port=8001
     
-#   Spring Microervices:
+#   Spring Microservices:
     # Characteristics
     -   They are small components
     -   Each microservice is independently deployable
